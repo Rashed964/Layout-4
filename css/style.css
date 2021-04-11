@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    background-color: aquamarine;
+    text-align: center;
+}
+.content_bar{
+    overflow: hidden;
+}
+.content{
+    background-color: cadetblue;
+    text-align: center;
+    width: 50%;
+    height: 400px;
+    float: left;
+    
+}
+.left_1{
+    background-color: blanchedalmond;
+    text-align: center;
+    height: 200px;
+    
+}
+.left_2{
+    background-color: blueviolet;
+    text-align: center;
+    height: 200px;
+}
+.right{
+    background-color: brown;
+    text-align: center;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+.footer{
+    background-color: darkslateblue;
+    text-align: center;
+}
